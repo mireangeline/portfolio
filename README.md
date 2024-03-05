@@ -78,3 +78,11 @@
    </td>
  </tr>
 </table>
+
+<i>See my [LinkedIn](https://www.linkedin.com/in/mireyaaamador/)</i>
+
+[<img src="https://user-images.githubusercontent.com/91146906/152072378-b0168a2d-e85c-47c6-a272-fcfb3f6a44ae.svg" height="35"/>](#top)
+
+<a name="skills"></a>
+<hr>
+
