@@ -86,3 +86,5 @@
 <a name="skills"></a>
 <hr>
 
+## Contact Information:
+### Email: mireangeline@gmail.com | Mobile: (619)395-5747
